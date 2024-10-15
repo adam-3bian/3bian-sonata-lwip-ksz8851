@@ -4,3 +4,6 @@
 [submodule "third_party/lwip"]
 	path = third_party/lwip
 	url = https://github.com/3bian/lwip
+[submodule "third_party/arm_mbedtls"]
+	path = third_party/arm_mbedtls
+	url = https://github.com/3bian/arm-mbedtls

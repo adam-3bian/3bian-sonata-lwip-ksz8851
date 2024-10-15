@@ -1,3 +1,6 @@
 [submodule "third_party/cheriot_rtos"]
 	path = third_party/cheriot_rtos
 	url = https://github.com/3bian/cheriot-rtos.git
+[submodule "third_party/lwip"]
+	path = third_party/lwip
+	url = https://github.com/3bian/lwip
